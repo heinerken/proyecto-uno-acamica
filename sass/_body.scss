@@ -1,0 +1,30 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+nav {
+    display: flex;
+    width: 100%;
+    background-color: $color-fondo;
+}
+
+.menu {
+    margin: 10%;
+    display: flex;
+    flex-direction:row-reverse;
+    width: 100%;
+    color:$color-letra;
+    
+}
+
+.cont {
+    width: 100%;
+    height: 5px;
+    border: 5px;
+}
+
+h1 {
+    width: 100%;
+    margin: 3%;
+}
